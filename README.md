@@ -1,5 +1,5 @@
 
-# Grade viewer & editor (Telegram + Google Sheets)
+# Photo Manager (rename in natural order + add EXIF metadata in bulk)
 ![AGPLv3 License](https://img.shields.io/badge/License-GNU_AGPLv3-yellow.svg)
 ![date](https://img.shields.io/badge/Date-Nov_2023-blue.svg)
 
