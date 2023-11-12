@@ -5,8 +5,8 @@
 
 ## How it works
 
-![imagegif](https://github.com/aysea7/photo-manager_open/assets/103923680/85ab7c54-a778-4e7f-8982-2e9f309606aa)
-
+![gif](https://github.com/aysea7/photo-manager_open/assets/103923680/72ebde1d-6683-4dc6-bd07-892a2c248f4c)
+*The 0.1 s delay was set to emulate a high load.*
 
 ## Authors
 
